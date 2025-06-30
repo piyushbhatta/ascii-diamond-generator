@@ -1,0 +1,1 @@
+# ascii-diamond-generator
